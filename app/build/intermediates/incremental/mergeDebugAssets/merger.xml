@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Source\SwipeBackDemo\app\src\main\assets"/><source path="F:\Source\SwipeBackDemo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Source\SwipeBackDemo\app\src\debug\assets"/></dataSet></merger>
